@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pass>
+    <initLife>999</initLife>
+    <initGold>3500</initGold>
+    <bout>
+        <enemy number="1" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="1000" speed="100" award="17" spawnTime="3"/>
+        <enemy number="2" blood="2000" speed="100" award="17" spawnTime="1"/>
+        <enemy number="4" blood="4000" speed="100" award="17" spawnTime="4"/>
+        <enemy number="1" blood="1000" speed="100" award="17" spawnTime="1"/>
+        <enemy number="3" blood="3000" speed="100" award="17" spawnTime="5"/>
+        <enemy number="2" blood="2000" speed="100" award="17" spawnTime="1"/>
+        <enemy number="1" blood="1000" speed="100" award="17" spawnTime="6"/>
+        <enemy number="3" blood="3000" speed="100" award="17" spawnTime="1"/>
+        <enemy number="1" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="2" blood="2000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="3" blood="3000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="4" blood="4000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="5" blood="5000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="6" blood="6000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="7" blood="7000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="8" blood="8000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="9" blood="9000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="10" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="11" blood="1100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="12" blood="1200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="13" blood="1300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="2" blood="200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="3" blood="300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="4" blood="400" speed="100" award="170" spawnTime="1"/>
+        <enemy number="5" blood="500" speed="100" award="170" spawnTime="1"/>
+        <enemy number="6" blood="600" speed="100" award="170" spawnTime="1"/>
+        <enemy number="7" blood="700" speed="100" award="170" spawnTime="1"/>
+        <enemy number="8" blood="800" speed="100" award="170" spawnTime="1"/>
+        <enemy number="9" blood="900" speed="100" award="170" spawnTime="1"/>
+        <enemy number="10" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="11" blood="1100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="12" blood="1200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="13" blood="1300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="2" blood="200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="3" blood="300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="4" blood="400" speed="100" award="170" spawnTime="1"/>
+        <enemy number="5" blood="500" speed="100" award="170" spawnTime="1"/>
+        <enemy number="6" blood="600" speed="100" award="170" spawnTime="1"/>
+        <enemy number="7" blood="700" speed="100" award="170" spawnTime="1"/>
+        <enemy number="8" blood="800" speed="100" award="170" spawnTime="1"/>
+        <enemy number="9" blood="900" speed="100" award="170" spawnTime="1"/>
+        <enemy number="10" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="11" blood="1100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="12" blood="1200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="13" blood="6500" speed="100" award="170" spawnTime="1"/>
+        <enemy number="1" blood="100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="2" blood="200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="3" blood="300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="4" blood="400" speed="100" award="170" spawnTime="1"/>
+        <enemy number="5" blood="500" speed="100" award="170" spawnTime="1"/>
+        <enemy number="6" blood="600" speed="100" award="170" spawnTime="1"/>
+        <enemy number="7" blood="700" speed="100" award="170" spawnTime="1"/>
+        <enemy number="8" blood="800" speed="100" award="170" spawnTime="1"/>
+        <enemy number="9" blood="900" speed="100" award="170" spawnTime="1"/>
+        <enemy number="10" blood="1000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="11" blood="1100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="12" blood="1200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="13" blood="6500" speed="100" award="170" spawnTime="1"/>
+        
+        <!--<enemy number="1" blood="100" speed="100" award="170" spawnTime="4"/>-->
+    </bout>
+    <bout>
+        <enemy number="1" blood="300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="2" blood="600" speed="100" award="170" spawnTime="1"/>
+        <enemy number="3" blood="900" speed="100" award="170" spawnTime="1"/>
+        <enemy number="4" blood="1200" speed="100" award="170" spawnTime="1"/>
+        <enemy number="5" blood="1500" speed="100" award="170" spawnTime="1"/>
+        <enemy number="6" blood="1800" speed="100" award="170" spawnTime="1"/>
+        <enemy number="7" blood="2100" speed="100" award="170" spawnTime="1"/>
+        <enemy number="8" blood="2400" speed="100" award="170" spawnTime="1"/>
+        <enemy number="9" blood="2700" speed="100" award="170" spawnTime="1"/>
+        <enemy number="10" blood="3000" speed="100" award="170" spawnTime="1"/>
+        <enemy number="11" blood="3300" speed="100" award="170" spawnTime="1"/>
+        <enemy number="12" blood="3600" speed="100" award="170" spawnTime="1"/>
+        <enemy number="13" blood="20000" speed="100" award="170" spawnTime="1"/>
+        
+    </bout>
+</pass>

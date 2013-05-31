@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<towers>
+    <tower number="1" grade="1" attackPower="50" attackSpeed="2" field="96" gunshot="96" price="100" critRate="0" slowRate="0" slowTime="0" multiAttack="1" isFiring="NO" isAttactUnslowedEnemy="NO" pierceEnemyNumber="0" isExplosion="NO"/>
+    <tower number="1" grade="2" attackPower="150" attackSpeed="2" field="96" gunshot="96" price="0" critRate="0" slowRate="0" slowTime="0" multiAttack="1" isFiring="NO" isAttactUnslowedEnemy="NO" pierceEnemyNumber="0" isExplosion="NO"/>
+    <tower number="1" grade="3" attackPower="450" attackSpeed="2" field="96" gunshot="96" price="0" critRate="0" slowRate="0" slowTime="0" multiAttack="1" isFiring="NO" isAttactUnslowedEnemy="NO" pierceEnemyNumber="0" isExplosion="NO"/>
+    
+    
+</towers>
